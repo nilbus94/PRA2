@@ -13,4 +13,5 @@ Desarrollar la capacidad de búsqueda, gestión y uso de información y recursos
 # EJECUTAR CODIGO
 
 1 - Instalar librerias que falten en su programario
+
 2 - Ejecutar el archivo main.py
